@@ -8,8 +8,6 @@
     "test",
     "*.md",
     "AUTHORS.txt",
-    "Gruntfile.js",
-    "package.json",
     "bower.json"
   ],
   "dependencies": {
